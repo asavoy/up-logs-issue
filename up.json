@@ -1,0 +1,7 @@
+{
+  "name": "up-logs-issue",
+  "regions": ["us-west-1"],
+  "lambda": {
+    "memory": 128
+  }
+}
